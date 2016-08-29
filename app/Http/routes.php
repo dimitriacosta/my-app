@@ -18,3 +18,11 @@ Route::get('/', function () {
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
+
+Route::get('dashboard', function () {
+    return view('dashboard');
+});
+
+Route::get('settings', function () {
+    return view('settings');
+});

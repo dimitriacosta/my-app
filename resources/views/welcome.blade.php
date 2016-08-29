@@ -5,10 +5,10 @@
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-default">
-                <div class="panel-heading">Welcome</div>
+                <div class="panel-heading">Git</div>
 
                 <div class="panel-body">
-                    Your Application's Landing Page.
+                    Bienvenidos al curso de git en Styde.
                 </div>
             </div>
         </div>

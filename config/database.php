@@ -52,6 +52,7 @@ return [
             'prefix' => '',
         ],
 
+        // Database connection for tests.
         'sqlite_testing' => [
             'driver' => 'sqlite',
             'database' => database_path('testing.sqlite'),

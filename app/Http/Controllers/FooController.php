@@ -8,5 +8,8 @@ use App\Http\Requests;
 
 class FooController extends Controller
 {
-    //
+    public function index()
+    {
+        return view('foo');
+    }
 }
